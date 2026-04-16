@@ -62,7 +62,16 @@ Poll-Results-Visualizer/
 ├── requirements.txt
 └── README.md
 ```
+## Dataset
 
+The dataset used in this project is the Stack Overflow Developer Survey.
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/datasets/stackoverflow/stack-overflow-developer-survey
+
+After downloading, place the file inside the `data/` folder:
 ---
 
 ## ⚙️ Installation & Setup
